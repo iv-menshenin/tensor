@@ -8,7 +8,7 @@ require (
 	github.com/chewxy/math32 v1.0.8
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.3
-	github.com/google/flatbuffers v1.12.0
+	github.com/google/flatbuffers v1.12.1
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.6.1
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20230525183740-e7c30c78aeb2
